@@ -1,1 +1,3 @@
 notebooc
+build/*
+!build/build.xml
