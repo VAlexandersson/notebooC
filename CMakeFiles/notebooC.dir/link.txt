@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/notebooC.dir/src/notebooc.c.o -o notebooC 

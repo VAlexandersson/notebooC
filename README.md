@@ -12,3 +12,7 @@ Ctrl-Q - resumes send output
 
 Ctrl-Z - run program in background
 fg to bring it pack
+
+
+
+Tildes.
